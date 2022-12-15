@@ -1,4 +1,4 @@
-# analysis-sales-data-using-excel
+# Analysis of Sales Data Using Excel
 
 Get a deep insight into the data and build an Excel Dashboard using 'Sales' data (dummy) from Bank Muamalat (via Rakamin Academy)
 
